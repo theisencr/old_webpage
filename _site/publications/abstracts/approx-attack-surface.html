@@ -1,0 +1,192 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Approximating Attack Surfaces with Stack Traces &#8211; Chris Theisen</title>
+<meta name="description" content="Abstract for Approximating Attack Surfaces">
+<meta name="keywords" content="abstracts">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Approximating Attack Surfaces with Stack Traces">
+<meta name="twitter:description" content="Abstract for Approximating Attack Surfaces">
+<meta name="twitter:site" content="@crtheisen">
+<meta name="twitter:creator" content="@crtheisen">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/images/boats.jpg">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Approximating Attack Surfaces with Stack Traces">
+<meta property="og:description" content="Abstract for Approximating Attack Surfaces">
+<meta property="og:url" content="/publications/abstracts/approx-attack-surface.html">
+<meta property="og:site_name" content="Chris Theisen">
+
+
+
+
+
+<link rel="canonical" href="/publications/abstracts/approx-attack-surface.html">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Chris Theisen Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="/">Chris Theisen</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="/publications/" >Publications</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="/service/" >Service</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="/" >Resume</a></li>
+				
+				    
+				        
+				        
+				    <li><a href="http://www.realsearchgroup.com/" target="_blank">Realsearch</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+  <div class="image-wrap">
+  <img src=
+    
+      "/images/boats.jpg"
+    
+  alt="Approximating Attack Surfaces with Stack Traces feature image">
+  
+    <span class="image-credit">Photo Credit: <a href="">Punting boats on the Cam, Cambridge 2014</a></span>
+  
+  </div><!-- /.image-wrap -->
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Chris Theisen bio photo">
+
+
+  <h3 itemprop="name">Chris Theisen</h3>
+  <p>Theoretical scientist. By which I mean I'm theoretically a scientist.</p>
+  <a href="mailto:crtheise@ncsu.edu" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i>Email</a>
+  <a href="http://twitter.com/crtheisen" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+  
+  
+  <a href="http://linkedin.com/in/crtheisen" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
+  
+  
+  <a href="http://github.com/theisencr" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+  </div>
+  <article class="page">
+    <h1>Approximating Attack Surfaces with Stack Traces</h1>
+    <div class="article-wrap">
+      <p>Security testing and reviewing efforts are a necessity for software projects, but are time-consuming and expensive to apply. Identifying vulnerable code supports decision-making during all phases of software development.  An approach for identifying vulnerable code is to identify its attack surface, the sum of all paths for untrusted data into and out of a system. Identifying the code that lies on the attack surface requires expertise and significant manual effort. This paper proposes an automated technique to empirically approximate attack surfaces through the analysis of stack traces.  We hypothesize that stack traces from user-initiated crashes have several desirable attributes for measuring attack surfaces. The goal of this research is to aid software engineers in prioritizing security efforts by approximating the attack surface of a system via stack trace analysis. In a trial on Windows 8, the attack surface approximation selected 48.4% of the binaries and contained 94.6% of known vulnerabilities. Compared with vulnerability prediction models (VPMs) run on the entire codebase, VPMs run on the attack surface approximation improved recall from .07 to .1 for binaries and from .02 to .05 for source files.  Precision remained at .5 for binaries, while improving from .5 to .69 for source files.</p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">C. Theisen, K. Herzig, P. Morrison, B. Murphy, and L. Williams, 
+“Approximating Attack Surfaces with Stack Traces”, in Companion 
+Proceedings of the 37th International Conference on Software 
+Engineering.</code></pre></div>
+
+<div><a href="#" class="btn">PDF</a></div>
+
+      
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Chris Theisen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+
+          
+
+</body>
+</html>
