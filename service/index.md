@@ -22,4 +22,7 @@ I was the teaching assistant in the Fall of 2013 and 2014 for the graduate cours
 
 In the Fall of 2014, I was the Teaching Assistant alongside Dr. Laurie Williams and [Dr. Emerson Murphy Hill](http://people.engr.ncsu.edu/ermurph3/) for a free, open platform MOOC on software security with 400+ students. The course featured lectures from Dr. Williams, technical and design exercises from me, and roundtable discussions on the latest security news every week with all of the instructors. We had a 10% retention rate through the course - quite good for this type of course (typical retention rates are 3-5%).
 
-##Reviews
+##Paper Reviews
+
+- [**Agile 2014**](http://agile2014.agilealliance.org/)
+- [**ICSE 2015**](http://2015.icse-conferences.org/)
