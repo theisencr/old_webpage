@@ -12,8 +12,8 @@ image:
 
 {% include _toc.html %}
 
-### Approximating Attack Surfaces with Stack Traces
+##### [ICSE '15] Approximating Attack Surfaces with Stack Traces
 
-What if we had a better way to determine what code elements had security vulnerabilities *that malicious users could actually exploit?* What if we could do it automatically?
+**Chris Theisen**, Kim Herzig, Pat Morrison, Brendan Murphy, and Laurie Williams, “Approximating Attack Surfaces with Stack Traces”, in Companion Proceedings of the 37th International Conference on Software Engineering.
 
-<div markdown="0"><a href="/publications/abstracts/approx-attack-surface.html" class="btn btn-info">Abstract/PDF</a></div>
+[PDF](http://research.microsoft.com/pubs/238352/Aproximating%20Attack%20Surfaces%20with%20Stack%20Traces.pdf)
