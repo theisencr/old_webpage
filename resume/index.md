@@ -14,7 +14,7 @@ image:
 
 Resume link below; this is my shortform version. If you're in commercial industry and/or a consulting contact, this is probably what you want.
 
-<div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/ctheisen_resume.pdf?raw=true" class="btn btn-info">PDF</a></div>
+<div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/ctheisen_resume.pdf" class="btn btn-info">PDF</a></div>
 
 ### Curriculum Vitae
 
