@@ -20,4 +20,4 @@ Proceedings of the 37th International Conference on Software
 Engineering.
 {% endhighlight %}
 
-<div markdown="0"><a href="#" class="btn">PDF</a></div>
+<div markdown="0"><a href="http://research.microsoft.com/pubs/238352/Aproximating%20Attack%20Surfaces%20with%20Stack%20Traces.pdf" class="btn">PDF</a></div>
