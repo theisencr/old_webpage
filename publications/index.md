@@ -12,7 +12,7 @@ image:
 
 {% include _toc.html %}
 
-##### [ICSE '15] Approximating Attack Surfaces with Stack Traces
+#### [ICSE '15] Approximating Attack Surfaces with Stack Traces
 
 **Chris Theisen**, Kim Herzig, Pat Morrison, Brendan Murphy, and Laurie Williams, “Approximating Attack Surfaces with Stack Traces”, in Companion Proceedings of the 37th International Conference on Software Engineering.
 
