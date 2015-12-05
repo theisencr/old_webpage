@@ -5,8 +5,8 @@ modified: 2015-02-04
 excerpt: "Resume"
 share: false
 image:
-  feature: tea_orchards.jpg
-  credit: Kelly Theisen, Grantchester Tea Orchards, Cambridge 2014
+  feature: cliffs.jpg
+  credit: Cliffs at Beachy Head, UK
   creditlink:
 ---
 
