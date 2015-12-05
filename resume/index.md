@@ -6,7 +6,7 @@ excerpt: "Resume"
 share: false
 image:
   feature: tea_orchards.jpg
-  credit: Grantchester Tea Orchards, Cambridge 2014
+  credit: Kelly Theisen, Grantchester Tea Orchards, Cambridge 2014
   creditlink:
 ---
 
