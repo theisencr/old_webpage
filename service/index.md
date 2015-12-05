@@ -5,12 +5,21 @@ modified: 2015-02-05
 excerpt: "Service stuff."
 share: false
 image:
-  feature: DSC_0115.jpg
-  credit: Grantchester Tea Orchards, 2014
+  feature: bergamo.jpg
+  credit: Bergamo during the FSE 2015 banquet.
   creditlink:
 ---
 
 {% include _toc.html %}
+
+All of the presentations, teaching, and academic service activities I've done.
+
+##Presentations
+
+- August 22, 2014, Intern Summer Research Presentation, Microsoft Research (MSR), Cambridge, UK
+- August 21, 2015, Intern Summer Research Presentation, MSR, Cambridge, UK
+- October 29, 2015, Science of Security Industry Community Day, Raleigh, NC
+- November 5, 2015, Data Science Workshop (DSW) at the IEEE International Symposium on Software Reliability Engineering (ISSRE), Washington, DC
 
 ##Teaching
 
@@ -25,4 +34,5 @@ In the Fall of 2014, I was the Teaching Assistant alongside Dr. Laurie Williams 
 ##Paper Reviews
 
 - [**Agile 2014**](http://agile2014.agilealliance.org/)
+- [**DSN 2014**](2014.dsn.org/)
 - [**ICSE 2015**](http://2015.icse-conferences.org/)

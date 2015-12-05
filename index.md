@@ -5,8 +5,8 @@ excerpt: "Chris Theisen's Home Page"
 tags: [home]
 share: false
 image:
-  feature: DSC_0115.jpg
-  credit: Grantchester Tea Orchards, 2014
+  feature: florence_bridge.jpg
+  credit: the Ponte Vecchio, taken from the Uffizi Gallery, Florence 2015
   creditlink:
 ---
 
@@ -14,4 +14,4 @@ I've been a PhD at North Carolina State University in [Computer Science](http://
 
 Before I returned to academia for a graduate degree, I spent four years working in industry for both large corporations and as a freelance engineer/manager for startups in the Cincinnati/Columbus areas. I have a wide variety of experience with a lot of different development environments, and I believe this perspective is important when attempting to do relevant research for today's software engineers.
 
-I married my wondeful wife Kelly in 2010. She's smarter than me, and that's ok. I'm a massive Colorado Avalanche fan and hockey fan in general. If I wasn't a PhD student or software engineer, I'd be doing something with advanced statistics in hockey, basketball, or any other sport. Nerds are taking over sports, too! 
+I married my wondeful wife Kelly in 2010. She's smarter than me, and that's ok. I'm a massive Colorado Avalanche fan and hockey fan in general. If I wasn't a PhD student or software engineer, I'd be doing something with advanced statistics in hockey, basketball, or any other sport.
