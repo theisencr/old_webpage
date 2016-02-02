@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service
+title:
 modified: 2015-02-05
 excerpt: "Service stuff."
 share: false
@@ -12,7 +12,7 @@ image:
 
 {% include _toc.html %}
 
-#Teaching
+# Teaching
 
 ## 2014: Software Security - Google Coursebuilder
 
@@ -22,7 +22,7 @@ In the Fall of 2014, I was the Teaching Assistant alongside Dr. Laurie Williams 
 
 I was the teaching assistant in the Fall of 2013 and 2014 for the graduate course in software security at NCSU. [Dr. Laurie Williams](http://collaboration.csc.ncsu.edu/laurie/index.html) designed and taught the course both semesters, while I designed projects and assignments and graded student work.
 
-#Paper Reviews
+# Paper Reviews
 
 - [**ICSE 2015**](http://2015.icse-conferences.org/)
 - [**DSN 2014**](2014.dsn.org/)
