@@ -12,6 +12,18 @@ image:
 
 {% include _toc.html %}
 
+#### [ICSE - DS '16] Reusing Stack Traces: Automated Attack Surface Approximation
+
+**Chris Theisen**, “Reusing Stack Traces: Automated Attack Surface Approximation”, to appear in the 38th International Conference on Software Engineering - Doctoral Symposium. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/DoctoralSymposium_preprint.pdf" class="btn btn-info">PDF</a>
+
+#### [ICSE '16] Software Security At Scale
+
+**Chris Theisen**, Laurie Williams, Emerson Murphy-Hill, and Kevin Oliver, “Software Security Education at Scale”, to appear in Companion Proceedings of the 38th International Conference on Software Engineering. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2016_SEET_preprint.pdf" class="btn btn-info">PDF</a>
+
+#### [HoTSoS - Poster '16] Poster: Risk-Based Attack Surface Approximation
+
+**Chris Theisen**, and Laurie Williams, “Poster: Risk-Based Attack Surface Approximation”, to appear in HotSoS 2016. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/HoTSoS2016_poster.pdf" class="btn btn-info">PDF</a>
+
 #### [FSE - SRC '15] Automated Attack Surface Approximation - **1st Place, Graduate**
 
 **Chris Theisen**, "Automated Attack Surface Approximation", in the 23rd ACM SIGSOFT International Symposium on the Foundations of Software Engineering - Student Research Competition, 2015, pp. 1063-1065. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/SRFSE_final.pdf" class="btn btn-info">PDF</a>
