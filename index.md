@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-I've been a PhD student at North Carolina State University in [Computer Science](http://www.csc.ncsu.edu/) since August 2013. My research is focused in software security and software engineering. My advisor is [Dr. Laurie Williams](http://collaboration.csc.ncsu.edu/laurie/) and I'm a member of the [Realsearch Group](http://www.realsearchgroup.com/realsearch/) at NCSU. I recieved a BS in Computer Science from the [University of Cincinnati](http://eecs.ceas.uc.edu/) in 2010.
+I've been a PhD student at North Carolina State University in [Computer Science](http://www.csc.ncsu.edu/) since August 2013. My research is focused in software security and software engineering. In particular, I have been working in the area of attack surface metrics as part of the NCSU Science of Security lablet. My advisor is [Dr. Laurie Williams](http://collaboration.csc.ncsu.edu/laurie/) and I'm a member of the [Realsearch Group](http://www.realsearchgroup.com/realsearch/) at NCSU. I recieved a BS in Computer Science from the [University of Cincinnati](http://eecs.ceas.uc.edu/) in 2010.
 
 Before I returned to academia for a graduate degree, I spent four years working in industry for both large corporations and as a freelance engineer/manager for startups in the Cincinnati/Columbus areas. I have a wide variety of experience with a lot of different development environments, and I believe this perspective is important when attempting to do relevant research for today's software engineers.
 
