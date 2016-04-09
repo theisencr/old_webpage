@@ -2,7 +2,7 @@
 layout: page
 title: Presentations
 modified: 2015-02-04
-excerpt: "Presentations""
+excerpt: "Presentations"
 share: false
 image:
   feature: boats.jpg
