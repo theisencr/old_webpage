@@ -6,7 +6,7 @@ excerpt: "Presentations""
 share: false
 image:
   feature: boats.jpg
-  credit: The river Cam in the afternoon, Cambridge, UK
+  credit: The River Cam in the Afternoon, Cambridge, UK
   creditlink:
 ---
 
