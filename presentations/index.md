@@ -2,11 +2,11 @@
 layout: page
 title: Presentations
 modified: 2015-02-04
-excerpt: "Resume"
+excerpt: "Presentations""
 share: false
 image:
-  feature: cliffs.jpg
-  credit: Cliffs at Beachy Head, UK
+  feature: boats.jpg
+  credit: The river Cam in the afternoon, Cambridge, UK
   creditlink:
 ---
 
