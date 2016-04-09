@@ -5,8 +5,8 @@ modified: 2015-02-04
 excerpt: "List of publications."
 share: false
 image:
-  feature: boats.jpg
-  credit: Punting boats on the Cam, Cambridge 2014
+  feature: icy_trees.jpg
+  credit: Raleigh ice storm, January 2016
   creditlink:
 ---
 
