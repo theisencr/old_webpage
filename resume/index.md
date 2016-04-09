@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-Resume link below; this is my shortform version. If you're in commercial industry and/or a consulting contact, this is probably what you want.
+Resume link below; this is my shortform version. If you're in industry and/or a consulting contact, this is probably what you want.
 
 Updated December 5, 2015.
 
