@@ -22,7 +22,7 @@ We are currently in the planning stages of running this course again using OpenE
 
 ## 2013-2014: Software Security - Classroom
 
-I was the teaching assistant in the Fall of 2013 and 2014 for the graduate course in software security at NCSU. Laurie Williams designed and taught the course both semesters, while I designed projects and assignments and graded student work.
+I was the teaching assistant in the Fall of 2013 and 2014 for the graduate course in Software Security at NCSU. Laurie Williams designed and taught the course both semesters, while I gave lectures, designed projects and assignments, and graded student work.
 
 # Paper Reviews
 
