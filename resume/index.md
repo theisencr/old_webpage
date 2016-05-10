@@ -18,4 +18,6 @@ Updated December 5, 2015.
 
 # Curriculum Vitae
 
-Coming soon!
+Updated May 9, 2016.
+
+<div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/theisencr_CV.pdf" class="btn btn-info">PDF</a></div>
