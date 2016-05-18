@@ -16,6 +16,10 @@ image:
 
 May 18, 2016, International Conference on Software Engineering, Austin, TX. "Software Security Education at Scale" | <a href="" class="btn btn-info">Coming Soon!</a>
 
+- <a href="https://softwaresecurity.digitalchalk.com/">DigitalChalk Offering</a>
+- <a href="https://www.google.com/edu/openonline/index.html">Google CourseBuilder</a>
+- <a href="https://open.edx.org/">Open EDx</a>
+
 #### ISSRE 2015 - DSW
 
 November 5, 2015, Data Science Workshop (DSW) at the IEEE International Symposium on Software Reliability Engineering (ISSRE), Washington, DC | <a href="http://www.slideshare.net/ChrisTheisen/attack-surface-analytics-issredsw-15" class="btn btn-info">Slides</a>
