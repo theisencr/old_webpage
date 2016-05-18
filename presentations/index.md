@@ -12,6 +12,10 @@ image:
 
 {% include _toc.html %}
 
+#### ICSE 2016 - SEET
+
+May 18, 2016, International Conference on Software Engineering, Austin, TX. "Software Security Education at Scale" | <a href="" class="btn btn-info">Coming Soon!</a>
+
 #### ISSRE 2015 - DSW
 
 November 5, 2015, Data Science Workshop (DSW) at the IEEE International Symposium on Software Reliability Engineering (ISSRE), Washington, DC | <a href="http://www.slideshare.net/ChrisTheisen/attack-surface-analytics-issredsw-15" class="btn btn-info">Slides</a>
