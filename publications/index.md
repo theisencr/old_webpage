@@ -20,6 +20,10 @@ image:
 
 **Chris Theisen**, Laurie Williams, Emerson Murphy-Hill, and Kevin Oliver, “Software Security Education at Scale”, to appear in Companion Proceedings of the 38th International Conference on Software Engineering. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2016_SEET_preprint.pdf" class="btn btn-info">PDF</a>
 
+<a href="https://softwaresecurity.digitalchalk.com/">DigitalChalk Offering</a>
+<a href="https://www.google.com/edu/openonline/index.html">Google CourseBuilder</a>
+<a href="https://open.edx.org/">Open EDx</a>
+
 #### [HoTSoS - Poster '16] Poster: Risk-Based Attack Surface Approximation
 
 **Chris Theisen**, and Laurie Williams, “Poster: Risk-Based Attack Surface Approximation”, to appear in HotSoS 2016. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/HoTSoS2016_poster.pdf" class="btn btn-info">PDF</a>
