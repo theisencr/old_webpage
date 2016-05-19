@@ -14,7 +14,7 @@ image:
 
 #### ICSE 2016 - SEET
 
-May 18, 2016, International Conference on Software Engineering, Austin, TX. "Software Security Education at Scale" | <a href="" class="btn btn-info">Coming Soon!</a>
+May 18, 2016, International Conference on Software Engineering, Austin, TX. "Software Security Education at Scale" | <a href="http://www.slideshare.net/ChrisTheisen/software-security-education-at-scale" class="btn btn-info">Slides</a>
 
 - <a href="https://softwaresecurity.digitalchalk.com/">DigitalChalk Offering</a>
 - <a href="https://www.google.com/edu/openonline/index.html">Google CourseBuilder</a>
