@@ -12,7 +12,7 @@ image:
 
 Resume link below; this is my shortform version. If you're in industry and/or a consulting contact, this is probably what you want.
 
-Updated December 5, 2015.
+Updated June 9, 2016.
 
 <div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/ctheisen_resume.pdf" class="btn btn-info">PDF</a></div>
 
