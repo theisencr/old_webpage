@@ -20,7 +20,7 @@ image:
 
 **Chris Theisen**, “Reusing Stack Traces: Automated Attack Surface Approximation”, 38th International Conference on Software Engineering - Doctoral Symposium. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/DoctoralSymposium_preprint.pdf" class="btn btn-info">PDF</a>
 
-#### [ICSE '16] Software Security Education At Scale
+#### [ICSE - SEIT '16] Software Security Education At Scale
 
 **Chris Theisen**, Laurie Williams, Emerson Murphy-Hill, and Kevin Oliver, “Software Security Education at Scale”, Companion Proceedings of the 38th International Conference on Software Engineering. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2016_SEET_preprint.pdf" class="btn btn-info">PDF</a>
 
@@ -32,6 +32,6 @@ image:
 
 **Chris Theisen**, "Automated Attack Surface Approximation", in the 23rd ACM SIGSOFT International Symposium on the Foundations of Software Engineering - Student Research Competition, 2015, pp. 1063-1065. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/SRFSE_final.pdf" class="btn btn-info">PDF</a>
 
-#### [ICSE '15] Approximating Attack Surfaces with Stack Traces
+#### [ICSE - SEIP '15] Approximating Attack Surfaces with Stack Traces
 
 **Chris Theisen**, Kim Herzig, Pat Morrison, Brendan Murphy, and Laurie Williams, “Approximating Attack Surfaces with Stack Traces”, in Companion Proceedings of the 37th International Conference on Software Engineering. | <a href="http://research.microsoft.com/pubs/238352/Aproximating%20Attack%20Surfaces%20with%20Stack%20Traces.pdf" class="btn btn-info">PDF</a>

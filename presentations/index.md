@@ -12,6 +12,8 @@ image:
 
 {% include _toc.html %}
 
+### Presentations
+
 #### ICSE 2016 - SEET
 
 May 18, 2016, International Conference on Software Engineering, Austin, TX. "Software Security Education at Scale" | <a href="http://www.slideshare.net/ChrisTheisen/software-security-education-at-scale" class="btn btn-info">Slides</a>
@@ -35,3 +37,10 @@ September 4, 2015, Foundations of Software Engineering (Student Research Competi
 #### ICSE 2015 - SEIP
 
 May 22, 2015, International Conference on Software Engineering, Florence, IT | <a href="http://www.slideshare.net/ChrisTheisen/approximating-attack-surfaces-with-stack-traces-icse-15" class="btn btn-info">Slides</a>
+
+### Posters
+
+####FSE 2015 - SRC
+
+September 4, 2015, Foundations of Software Engineering (Student Research Competition), Bergamo IT | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/ctheisen_resume.pdf" class="btn btn-info">Poster</a>
+
