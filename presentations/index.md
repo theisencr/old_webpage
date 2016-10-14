@@ -40,7 +40,7 @@ May 22, 2015, International Conference on Software Engineering, Florence, IT | <
 
 ### Posters
 
-####FSE 2015 - SRC
+#### FSE 2015 - SRC
 
 September 4, 2015, Foundations of Software Engineering (Student Research Competition), Bergamo IT | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/ctheisen_resume.pdf" class="btn btn-info">Poster</a>
 
