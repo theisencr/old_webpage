@@ -15,7 +15,7 @@ image:
 #### [ICSE - SEIP '17] Risk-Based Attack Surface Approximation: How Much Data is Enough?
 
 **Chris Theisen**, Kim Herzig, Brendan Murphy, and Laurie Williams, “Risk-Based Attack Surface Approximation: How Much
-Data is Enough?”, in Companion Proceedings of the 39th International Conference on Software Engineering. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2017_SEIP_sampling_preprint.pdf" class="btn btn-info">PDF</a>
+Data is Enough?”, to appear in Companion Proceedings of the 39th International Conference on Software Engineering. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2017_SEIP_sampling_preprint.pdf" class="btn btn-info">PDF</a>
 
 #### [ACM - SRC Finals '16] Risk-Based Attack Surface Approximation - **3rd Place, Graduate**
 
