@@ -12,6 +12,9 @@ image:
 
 {% include _toc.html %}
 
+**Chris Theisen**, Kim Herzig, Brendan Murphy, and Laurie Williams, “Risk-Based Attack Surface Approximation: How Much
+Data is Enough?”, in Companion Proceedings of the 39th International Conference on Software Engineering. | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2017_SEIP_sampling_preprint.pdf" class="btn btn-info">PDF</a>
+
 #### [ACM - SRC Finals '16] Risk-Based Attack Surface Approximation - **3rd Place, Graduate**
 
 **Chris Theisen**, "Risk-Based Attack Surface Approximation", ACM Student Research Competition Grand Finals, 2016. | <a href="http://src.acm.org/2016/ChristopherTheisen.pdf" class="btn btn-info">PDF</a>
