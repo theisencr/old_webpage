@@ -18,7 +18,7 @@ I received the [1st place award](https://raw.githubusercontent.com/theisencr/the
 
 I married my wonderful wife [Kelly Theisen](https://sites.google.com/site/theiseneportfolio/) in 2010. I'm a massive Colorado Avalanche fan and hockey fan in general. If I wasn't a PhD student or software engineer, I'd be doing something with advanced statistics in hockey, basketball, or any other sport.
 
-##Media
+## Media
 
 - RASA featured in The Register: [Redmond boffins' infosec trick will ship better code, faster](http://www.theregister.co.uk/2015/03/17/redmond_boffins_infosec_trick_will_ship_better_code_faster/).
 - Visual Studio Team Services Blog post on RASA: [Improving Software Security with Stack Traces from Bug Reports](https://www.visualstudio.com/en-us/articles/devopsmsft/attack-surface-detection)
