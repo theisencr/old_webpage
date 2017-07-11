@@ -34,9 +34,9 @@ May 18, 2016, "Software Security Education at Scale," International Conference o
 
 November 5, 2015, “Attack Surface Analytics”, Data Science Workshop (DSW) at the IEEE International Symposium on Software Reliability Engineering (ISSRE), Washington, DC | <a href="http://www.slideshare.net/ChrisTheisen/attack-surface-analytics-issredsw-15" class="btn btn-info">Slides</a>
 
-#### SoS Community Day
+#### SoS Community Day - 2015
 
-October 29, 2015, Science of Security Industry Community Day, Raleigh, NC | <a href="http://www.slideshare.net/ChrisTheisen/science-of-security-industry-day" class="btn btn-info">Slides</a>
+October 29, 2015, "Automated Attack Surface Approximation," Science of Security Industry Community Day, Raleigh, NC | <a href="http://www.slideshare.net/ChrisTheisen/science-of-security-industry-day" class="btn btn-info">Slides</a>
 
 #### FSE 2015 - SRC
 

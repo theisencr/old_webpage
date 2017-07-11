@@ -26,12 +26,12 @@ I was the teaching assistant in the Fall of 2013, 2014, and 2016 for the graduat
 
 # Conference Paper Reviews
 
-- **ESEM 2017**
-- **MSR 2017**
-- **NDSS 2017**
-- **ICSE 2015**
-- **DSN 2014**
-- **Agile 2014**
+- ESEM 2017
+- MSR 2017
+- NDSS 2017
+- ICSE 2015
+- DSN 2014
+- Agile 2014
 
 # Journal Reviews (Invited)
 
