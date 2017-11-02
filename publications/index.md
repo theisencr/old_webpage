@@ -14,6 +14,11 @@ image:
 
 I try to curate my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KTbdJvYAAAAJ&sortby=pubdate) profile as much as possible.
 
+#### [SECSE '17] Teaching Secure Software Development Through an Online Course
+
+**Chris Theisen**, Ted Zhu, Kevin Oliver, and Laurie Williams, “Teaching Secure Software Development Through an Online Course”, in Proceedings of the International Workshop on Secure Software Engineering in DevOps and Agile Development
+co-located with the 22nd European Symposium on Research in Computer Security (ESORICS 2017)| <a href="http://ceur-ws.org/Vol-1977/paper3.pdf" class="btn btn-info">PDF</a>
+
 #### [ICSE - SEIP '17] Risk-Based Attack Surface Approximation: How Much Data is Enough?
 
 **Chris Theisen**, Kim Herzig, Brendan Murphy, and Laurie Williams, “Risk-Based Attack Surface Approximation: How Much Data is Enough?”, in Companion Proceedings of the 39th International Conference on Software Engineering. pp. 273-282 | <a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/pubs/ICSE2017_SEIP_sampling_preprint.pdf" class="btn btn-info">PDF</a>

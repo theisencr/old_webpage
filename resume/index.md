@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-modified: 2015-02-04
+title: Resume and Statements
+modified: 2017-10-30
 excerpt: "Resume"
 share: false
 image:
@@ -12,12 +12,20 @@ image:
 
 Resume link below; this is the shortform version. If you're in industry and/or a consulting contact, this is probably what you want.
 
-Updated July 11, 2017.
+Updated October 30, 2017.
 
 <div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/theisencr_resume.pdf" class="btn btn-info">PDF</a></div>
 
 # Curriculum Vitae
 
-Updated July 11, 2017.
+Updated October 30, 2017.
 
 <div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/theisencr_CV.pdf" class="btn btn-info">PDF</a></div>
+
+# Research Statement
+
+<div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/theisencr_research.pdf" class="btn btn-info">PDF</a></div>
+
+# Teaching Statement
+
+<div markdown="0"><a href="https://github.com/theisencr/theisencr.github.io/blob/master/assets/theisencr_teaching.pdf" class="btn btn-info">PDF</a></div>
