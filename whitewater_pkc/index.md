@@ -15,9 +15,12 @@ image:
 ### Exercise Links
 
 Alice (Pink, Receiver): [Receiver](http://cs.wellesley.edu/~cs110/lectures/L24/rsa-secret.html)
-Bob (Blue, Sender): [Receiver](http://cs.wellesley.edu/~cs110/lectures/L24/rsa-public.html)
+
+Bob (Blue, Sender): [Sender](http://cs.wellesley.edu/~cs110/lectures/L24/rsa-public.html)
 
 Eve (Pink, Malicious Receiver): [Malicious Receiver](http://cs.wellesley.edu/~cs110/lectures/L24/rsa-secret.html)
+
+Thanks to Wellesley University for making this demo available to the public.
 
 ### Presentation Materials
 
