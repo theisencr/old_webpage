@@ -16,8 +16,7 @@ I try to curate my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 #### [SECSE '17] Teaching Secure Software Development Through an Online Course
 
-**Chris Theisen**, Ted Zhu, Kevin Oliver, and Laurie Williams, “Teaching Secure Software Development Through an Online Course”, in Proceedings of the International Workshop on Secure Software Engineering in DevOps and Agile Development
-co-located with the 22nd European Symposium on Research in Computer Security (ESORICS 2017) | <a href="http://ceur-ws.org/Vol-1977/paper3.pdf" class="btn btn-info">PDF</a>
+**Chris Theisen**, Ted Zhu, Kevin Oliver, and Laurie Williams, “Teaching Secure Software Development Through an Online Course”, in Proceedings of the International Workshop on Secure Software Engineering in DevOps and Agile Development co-located with the 22nd European Symposium on Research in Computer Security (ESORICS 2017) | <a href="http://ceur-ws.org/Vol-1977/paper3.pdf" class="btn btn-info">PDF</a>
 
 #### [ICSE - SEIP '17] Risk-Based Attack Surface Approximation: How Much Data is Enough?
 
