@@ -24,8 +24,6 @@ Thanks to Wellesley University for making this demo available to the public.
 
 ### Presentation Materials
 
-Algorithms Presentation: Public Key Cryptosystems and RSA | <a href="https://www.slideshare.net/ChrisTheisen/prioritizing-security-efforts-with-a-riskbased-attack-surface-approximation" class="btn btn-info">Slides</a>
+Algorithms Presentation: Public Key Cryptosystems and RSA | <a href="https://www.slideshare.net/ChrisTheisen/public-key-cryptosystems-and-rsa" class="btn btn-info">Slides</a>
 
-Research Presentation: Metrics for Security Effort Prioritization | <a href="https://www.slideshare.net/ChrisTheisen/prioritizing-security-efforts-with-a-riskbased-attack-surface-approximation" class="btn btn-info">Slides</a>
-
-Security Class Materials (Currently hidden by NCSU IT services; watch this space): [Link](https://tinyurl.com/ncsu-softsec)
+Research Presentation: Metrics for Security Effort Prioritization | <a href="https://www.slideshare.net/ChrisTheisen/metrics-for-security-effort-prioritization" class="btn btn-info">Slides</a>
